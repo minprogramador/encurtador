@@ -39,6 +39,3 @@ app.use(function(err, req, res, next) {
 });
 
 module.exports = app;
-
-
-//https://www.youtube.com/watch?v=my93C3s7vs4
